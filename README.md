@@ -1,4 +1,5 @@
 What is a Knowledge Graph?
+
 Let’s get one thing out of the way – we will see the term “graphs” a lot in this article. We do not mean bar charts, pie charts, and line plots when I say graphs. Here, we are talking about interconnected entities which can be people, locations, organizations, or even an event.
 
 ![Alt text](https://cdn.analyticsvidhya.com/wp-content/uploads/2019/10/graph_not_plots.png)
